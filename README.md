@@ -8,7 +8,8 @@ In the project directory, you can run:
 
 # PREVIEW
 
-![alt text](public/preview.mov "Preview")
+![GitHub Logo](/public/preview.mov)
+Format: ![Alt Text](url)
 
 ## Learn More
 
