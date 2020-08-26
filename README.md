@@ -1,6 +1,6 @@
 
 # Description
-It's a simple react app calling and handle extenal api using custom hook and helpers
+It's a simple react app calling and handle external api using custom hook and helpers
 
 ### `yarn start`
 
