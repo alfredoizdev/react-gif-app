@@ -8,7 +8,11 @@ In the project directory, you can run:
 
 # PREVIEW
 
+<<<<<<< HEAD
 ![Preview](/public/preview.png)
+=======
+![Preview](/public/preview.mov)
+>>>>>>> 4af37980172013b62993bc9be45dd4bfd784de42
 
 ## Learn More
 
